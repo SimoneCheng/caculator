@@ -2,7 +2,9 @@
 
 來自The Odin Project的練習：https://www.theodinproject.com/paths/foundations/courses/foundations/lessons/calculator
 
-參考資源：https://dylan237.github.io/js-3f-calculator.html
+參考資源：
+- https://dylan237.github.io/js-3f-calculator.html
+- https://www.itread01.com/content/1506604807.html
 
 已完成事項：  
 - 6/19-6/20：完成計算機的HTML、CSS介面  
